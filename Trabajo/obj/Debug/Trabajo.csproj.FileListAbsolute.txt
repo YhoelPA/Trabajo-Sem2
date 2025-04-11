@@ -1,0 +1,7 @@
+C:\Users\chich\OneDrive - Universidad Privada del Norte\Escritorio\UPN\II\FUNDAMENTOS DE ALGORITMOS - 2233 (Presencial)\SEMANA 2\CLASE\TRABAJO\C##\Trabajo\Trabajo\bin\Debug\Trabajo.exe.config
+C:\Users\chich\OneDrive - Universidad Privada del Norte\Escritorio\UPN\II\FUNDAMENTOS DE ALGORITMOS - 2233 (Presencial)\SEMANA 2\CLASE\TRABAJO\C##\Trabajo\Trabajo\bin\Debug\Trabajo.exe
+C:\Users\chich\OneDrive - Universidad Privada del Norte\Escritorio\UPN\II\FUNDAMENTOS DE ALGORITMOS - 2233 (Presencial)\SEMANA 2\CLASE\TRABAJO\C##\Trabajo\Trabajo\bin\Debug\Trabajo.pdb
+C:\Users\chich\OneDrive - Universidad Privada del Norte\Escritorio\UPN\II\FUNDAMENTOS DE ALGORITMOS - 2233 (Presencial)\SEMANA 2\CLASE\TRABAJO\C##\Trabajo\Trabajo\obj\Debug\Trabajo.csproj.AssemblyReference.cache
+C:\Users\chich\OneDrive - Universidad Privada del Norte\Escritorio\UPN\II\FUNDAMENTOS DE ALGORITMOS - 2233 (Presencial)\SEMANA 2\CLASE\TRABAJO\C##\Trabajo\Trabajo\obj\Debug\Trabajo.csproj.CoreCompileInputs.cache
+C:\Users\chich\OneDrive - Universidad Privada del Norte\Escritorio\UPN\II\FUNDAMENTOS DE ALGORITMOS - 2233 (Presencial)\SEMANA 2\CLASE\TRABAJO\C##\Trabajo\Trabajo\obj\Debug\Trabajo.exe
+C:\Users\chich\OneDrive - Universidad Privada del Norte\Escritorio\UPN\II\FUNDAMENTOS DE ALGORITMOS - 2233 (Presencial)\SEMANA 2\CLASE\TRABAJO\C##\Trabajo\Trabajo\obj\Debug\Trabajo.pdb
